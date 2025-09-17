@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm an aspiring **Backend Developer** with a stron
 - Dev Tools: Postman, Git, GitHub, Docker, IntelliJ IDEA
 - Other: RESTful APIs, JWT, Maven, Hibernate
 
-## 📈 GitHub Stats
-
-![Tran Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tran-Nguyen-26&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 
 - Email: trannguyeen2005@gmail.com
