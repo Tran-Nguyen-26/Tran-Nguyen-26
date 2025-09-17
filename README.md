@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Tran Nguyen
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** focused on building clean, fast, and user-friendly websites and applications.
+Welcome to my GitHub profile! I'm a dedicated **Backend Developer** specializing in **Java** and **Spring Boot**, focused on building scalable, secure, and high-performance web applications.
 
 ## 🚀 About Me
 
-- 🌐 I'm currently focused on **JavaScript**, **React.js**, and **Node.js**
-- 🛠️ I’m also exploring **Java (Spring Boot)** for full-stack web development
-- 📚 I love learning new technologies and building real-world projects
-- ✨ Clean code and good UI/UX are my top priorities
+- 💻 I work primarily with **Java** and the **Spring ecosystem** (Spring Boot, Spring Security, Spring Data)
+- 🔐 I'm passionate about designing robust APIs, implementing authentication & authorization, and optimizing backend performance
+- 🧠 I enjoy solving complex problems and writing clean, maintainable code
+- 📚 Constantly learning and experimenting with new backend technologies and architectural patterns
 
 ## 🧰 Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React, TailwindCSS
-- Backend: Node.js, Express, Java + Spring Boot
-- Database: MongoDB, MySQL
-- Tools: Git, GitHub, VSCode, Postman
+- Backend: Java, Spring Boot, Spring Security, Spring Data JPA
+- Database: MySQL, MongoDB
+- Dev Tools: Postman, Git, GitHub, Docker, IntelliJ IDEA
+- Other: RESTful APIs, JWT, Maven, Hibernate
 
 ## 📈 GitHub Stats
 
@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** focused on buil
 
 - Email: trannguyeen2005@gmail.com
 
-Thanks for visiting my profile! Feel free to check out my projects and leave a ⭐ if you like them!
+Thanks for stopping by! Feel free to explore my repositories — especially the backend projects — and drop a ⭐ if you find something cool!
