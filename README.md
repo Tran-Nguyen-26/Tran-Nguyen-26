@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Tran Nguyen
 
-Welcome to my GitHub profile! I'm a dedicated **Backend Developer** specializing in **Java** and **Spring Boot**, focused on building scalable, secure, and high-performance web applications.
+Welcome to my GitHub profile! I'm an aspiring **Backend Developer** with a strong interest in building scalable and secure web applications using **Java** and **Spring Boot**.
 
 ## 🚀 About Me
 
-- 💻 I work primarily with **Java** and the **Spring ecosystem** (Spring Boot, Spring Security, Spring Data)
-- 🔐 I'm passionate about designing robust APIs, implementing authentication & authorization, and optimizing backend performance
-- 🧠 I enjoy solving complex problems and writing clean, maintainable code
-- 📚 Constantly learning and experimenting with new backend technologies and architectural patterns
+- 💻 I'm currently learning and working with **Java** and the **Spring ecosystem** (Spring Boot, Spring Security, Spring Data)
+- 🔐 I'm passionate about backend architecture, API design, and authentication systems
+- 📚 I love exploring new technologies and applying them to real-world projects
+- ✨ Writing clean, maintainable code and understanding system design are my top priorities
 
 ## 🧰 Tech Stack
 
@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I'm a dedicated **Backend Developer** specializing
 
 - Email: trannguyeen2005@gmail.com
 
-Thanks for stopping by! Feel free to explore my repositories — especially the backend projects — and drop a ⭐ if you find something cool!
+Thanks for visiting my profile! I'm on a journey to become a skilled backend developer — feel free to explore my projects and leave a ⭐ if you find something interesting!
